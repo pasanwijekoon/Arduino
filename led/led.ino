@@ -8,7 +8,7 @@ int LED_7 = 7;
 int LED_8 = 6;
 int LED_9 = 5;
 int LED_10 = 4;
-int Delay = 1000;
+int Delay = 2000;
 
 void setup() {
   pinMode(LED_1, OUTPUT);
